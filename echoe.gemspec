@@ -6,8 +6,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.8.4") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Evan Weaver}]
-  s.cert_chain = [%q{/Users/eweaver/p/configuration/gem_certificates/evan_weaver-original-public_cert.pem}]
-  s.date = %q{2011-05-30}
+  s.date = %q{2011-06-06}
   s.description = %q{A Rubygems packaging tool that provides Rake tasks for documentation, extension compiling, testing, and deployment.}
   s.email = %q{}
   s.extra_rdoc_files = [%q{CHANGELOG}, %q{LICENSE}, %q{README}, %q{lib/echoe.rb}, %q{lib/echoe/extensions.rb}, %q{lib/echoe/platform.rb}, %q{lib/echoe/rubygems.rb}]
@@ -16,8 +15,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = [%q{--line-numbers}, %q{--inline-source}, %q{--title}, %q{Echoe}, %q{--main}, %q{README}]
   s.require_paths = [%q{lib}]
   s.rubyforge_project = %q{fauna}
-  s.rubygems_version = %q{1.8.4}
-  s.signing_key = %q{/Users/eweaver/p/configuration/gem_certificates/evan_weaver-original-private_key.pem}
+  s.rubygems_version = %q{1.8.5}
   s.summary = %q{A Rubygems packaging tool that provides Rake tasks for documentation, extension compiling, testing, and deployment.}
 
   if s.respond_to? :specification_version then
